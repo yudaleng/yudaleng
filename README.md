@@ -62,12 +62,12 @@ Current signal
 ### GitHub Pulse
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yudaleng&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&border_radius=8" alt="yudaleng GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudaleng&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" alt="yudaleng top languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yudaleng&theme=github_dark" alt="yudaleng GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yudaleng&theme=github_dark" alt="yudaleng top languages" />
 </p>
 
 <p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=yudaleng&theme=tokyo-night&hide_border=true&radius=8&area=true" alt="yudaleng activity graph" />
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=yudaleng&theme=tokyo-night&hide_border=true&radius=8&area=true&custom_title=yudaleng%27s%20Contribution%20Graph" alt="yudaleng activity graph" />
 </p>
 
 ### Contribution Flow
